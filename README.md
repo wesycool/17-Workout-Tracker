@@ -12,6 +12,7 @@ Node.js, Robo 3T, npm install express and mongoose
 
 ## Usage
 Run node server.js to run the app.
+Sample link: https://wesycool-workout-tracker.herokuapp.com/
 
 [![Screenshot](./screenshot1.png)](https://wesycool-workout-tracker.herokuapp.com/)
 [![Screenshot](./screenshot2.png)](https://wesycool-workout-tracker.herokuapp.com/)
