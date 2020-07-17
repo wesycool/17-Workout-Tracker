@@ -4,7 +4,9 @@ const Schema = mongoose.Schema;
 
 const workoutSchema = new Schema({
   day: {type: Date,default: Date.now},
-  exercises: [{type: Schema.Types.ObjectId,ref: "exercise"}]
+  exercises: [{type: Schema.Types.ObjectId,ref: "Exercise"}]
 });
 
-module.exports = mongoose.model("Workout", workoutSchema);
+const Workout = mongoose.model("Workout", workoutSchema);
+
+module.exports = Workout;
