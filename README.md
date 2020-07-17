@@ -8,13 +8,13 @@ Fitness app that allows you to track your daily workout performance
 
 
 ## Installation
-Node.js, Robo 3T, npm install expressand mongoose
+Node.js, Robo 3T, npm install express and mongoose
 
 ## Usage
 Run node server.js to run the app.
 
-[![Screenshot](./screenshot1.png)]()
-[![Screenshot](./screenshot2.png)]()
+[![Screenshot](./screenshot1.png)](https://wesycool-workout-tracker.herokuapp.com/)
+[![Screenshot](./screenshot2.png)](https://wesycool-workout-tracker.herokuapp.com/)
 
 ## License
 MIT License
